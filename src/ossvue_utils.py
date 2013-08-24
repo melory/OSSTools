@@ -1,11 +1,8 @@
-
-# -*- coding: utf-8 -*-
-
-
 #!/usr/bin/env python
-## ossvue_utils
-## Author: HuangMeilong
-## Email:imsrch@gmail.com
+# -*- coding: utf-8 -*-
+## ossbrowser
+## Author: melory
+## Email:imsrch@melory.me
 ## License: GPL Version 2
 
 

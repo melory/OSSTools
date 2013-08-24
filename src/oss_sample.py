@@ -1,11 +1,17 @@
-#coding=utf8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+## ossbrowser
+## Author: melory
+## Email:imsrch@melory.me
+## License: GPL Version 2
+
 import time
 from oss_xml_handler import *
 from oss_api import *
 
 HOST="storage.aliyun.com"
-ACCESS_ID = "lojchrjr7ns1hqb3p40lpjs4"
-SECRET_ACCESS_KEY = "+YrDzdIkbmEoIawjt946gESM0dI="
+ACCESS_ID = "YOUR ACCESS ID"
+SECRET_ACCESS_KEY = "YOUR SECRET ACCESS KEY"
 #ACCESS_ID and SECRET_ACCESS_KEY should not be empty, please input correct one.
    
 if __name__ == "__main__": 

@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-## oss_ui
-## Author: HuangMeilong
-## Email:imsrch@gmail.com
+## ossbrowser
+## Author: melory
+## Email:imsrch@melory.me
 ## License: GPL Version 2
 
 
