@@ -1,0 +1,15 @@
+#Sat Aug 24 23:02:35 CST 2013
+eclipse.preferences.version=1
+encoding//src/convert2exe.py=utf-8
+encoding//src/oss_api.py=utf8
+encoding//src/oss_cmd.py=utf8
+encoding//src/oss_fs.py=utf8
+encoding//src/oss_sample.py=utf8
+encoding//src/oss_ui.py=utf-8
+encoding//src/oss_util.py=utf8
+encoding//src/oss_xml_handler.py=utf8
+encoding//src/ossbrowser.py=utf-8
+encoding//src/ossvue_utils.py=utf-8
+encoding//test/rrr.py=utf-8
+encoding//test/test_functions.py=utf-8
+encoding/<project>=UTF-8
