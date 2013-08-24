@@ -1163,7 +1163,7 @@ def OnAbout(event):
             u"time, from anywhere on the web",
             500, wx.ClientDC(oss_frame))
         info.WebSite = ("http://www.aliyun.com/", "About Aliyun.com")
-        info.Developers = [ u" Meilong Huang [geek@imsrch.tk]"]
+        info.Developers = [ u" Meilong Huang [imsrch@melory.me]"]
         wx.AboutBox(info)
 
 def OnContactUs(event):
